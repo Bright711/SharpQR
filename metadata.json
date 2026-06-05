@@ -1,0 +1,10 @@
+{
+  "name": "SmartQR Learning Access",
+  "description": "A mobile-first educational platform enabling rural students to access digital textbooks and resources instantly using physical QR codes, reducing book sharing and textbook shortages.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
